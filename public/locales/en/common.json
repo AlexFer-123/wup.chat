@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "features": "Features",
+    "solutions": "Solutions",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Revolutionize Customer Communication with AI-Powered Automation",
+    "subtitle": "Streamline WhatsApp, Facebook, Instagram, and more for healthcare centers, hotels, and restaurants. Boost efficiency, reduce costs, and enhance customer satisfaction.",
+    "cta": "Start Free Trial",
+    "watchDemo": "Watch Demo",
+    "trustedBy": "Trusted by 500+ businesses worldwide"
+  },
+  "features": {
+    "title": "Complete Communication Solution",
+    "subtitle": "Everything you need to automate and optimize customer interactions across all social platforms",
+    "aiAutomation": {
+      "title": "AI-Powered Automation",
+      "description": "Intelligent chatbots that understand context and provide personalized responses 24/7"
+    },
+    "multiChannel": {
+      "title": "Multi-Channel Support",
+      "description": "Manage WhatsApp, Facebook, Instagram, and more from a single, unified platform"
+    },
+    "analytics": {
+      "title": "Advanced Analytics",
+      "description": "Track performance, measure ROI, and gain insights to optimize your communication strategy"
+    },
+    "integration": {
+      "title": "Seamless Integration",
+      "description": "Connect with your existing CRM, booking systems, and business tools effortlessly"
+    },
+    "realTime": {
+      "title": "Real-Time Support",
+      "description": "Switch between automated and human support seamlessly when needed"
+    },
+    "security": {
+      "title": "Enterprise Security",
+      "description": "Bank-level encryption and compliance with healthcare and hospitality regulations"
+    }
+  },
+  "solutions": {
+    "title": "Tailored Solutions for Your Industry",
+    "healthcare": {
+      "title": "Healthcare Centers",
+      "description": "Appointment scheduling, patient reminders, symptom checking, and HIPAA-compliant communication",
+      "features": [
+        "Automated appointment booking",
+        "Prescription reminders",
+        "Symptom assessment",
+        "Patient follow-ups",
+        "HIPAA compliance"
+      ]
+    },
+    "hotels": {
+      "title": "Hotels & Hospitality",
+      "description": "Enhance guest experience with instant booking, concierge services, and personalized recommendations",
+      "features": [
+        "Room booking automation",
+        "Check-in/check-out assistance",
+        "Concierge services",
+        "Guest feedback collection",
+        "Local recommendations"
+      ]
+    },
+    "restaurants": {
+      "title": "Restaurants",
+      "description": "Table reservations, menu inquiries, order taking, and delivery coordination made simple",
+      "features": [
+        "Table reservations",
+        "Menu recommendations",
+        "Order management",
+        "Delivery tracking",
+        "Customer reviews"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "What Our Customers Say",
+    "subtitle": "Join hundreds of businesses that have transformed their customer communication",
+    "reviews": [
+      {
+        "name": "Dr. Sarah Johnson",
+        "role": "Medical Director",
+        "company": "HealthCare Plus",
+        "text": "Wup.chat reduced our appointment no-shows by 40% and improved patient satisfaction significantly. The HIPAA compliance gives us peace of mind.",
+        "rating": 5
+      },
+      {
+        "name": "Carlos Rodriguez",
+        "role": "General Manager",
+        "company": "Grand Hotel Resort",
+        "text": "Our guest satisfaction scores increased by 35% since implementing Wup.chat. The multilingual support is phenomenal for our international guests.",
+        "rating": 5
+      },
+      {
+        "name": "Maria Santos",
+        "role": "Owner",
+        "company": "Bella Vista Restaurant",
+        "text": "We've doubled our reservation bookings and reduced wait times. The AI understands our menu perfectly and makes great recommendations.",
+        "rating": 5
+      }
+    ]
+  },
+  "stats": {
+    "customers": "500+",
+    "customersLabel": "Happy Customers",
+    "messages": "2M+",
+    "messagesLabel": "Messages Processed",
+    "satisfaction": "98%",
+    "satisfactionLabel": "Customer Satisfaction",
+    "uptime": "99.9%",
+    "uptimeLabel": "Uptime Guarantee"
+  },
+  "cta": {
+    "title": "Ready to Transform Your Customer Communication?",
+    "subtitle": "Join thousands of businesses already using Wup.chat to automate and enhance their customer interactions",
+    "button": "Start Your Free Trial",
+    "noCredit": "No credit card required • 14-day free trial • Cancel anytime"
+  },
+  "footer": {
+    "description": "Wup.chat helps businesses automate and optimize customer communication across all social platforms with AI-powered solutions.",
+    "product": "Product",
+    "company": "Company",
+    "support": "Support",
+    "legal": "Legal",
+    "features": "Features",
+    "pricing": "Pricing",
+    "integrations": "Integrations",
+    "about": "About Us",
+    "careers": "Careers",
+    "blog": "Blog",
+    "helpCenter": "Help Center",
+    "documentation": "Documentation",
+    "community": "Community",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Policy",
+    "rights": "All rights reserved."
+  }
+}

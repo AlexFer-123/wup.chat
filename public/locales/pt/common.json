@@ -1,0 +1,145 @@
+{
+  "nav": {
+    "features": "Recursos",
+    "solutions": "Soluções",
+    "pricing": "Preços",
+    "about": "Sobre",
+    "contact": "Contato",
+    "login": "Entrar",
+    "getStarted": "Começar"
+  },
+  "hero": {
+    "title": "Revolucione a Comunicação com Clientes usando Automação com IA",
+    "subtitle": "Otimize WhatsApp, Facebook, Instagram e mais para centros de saúde, hotéis e restaurantes. Aumente a eficiência, reduza custos e melhore a satisfação do cliente.",
+    "cta": "Teste Grátis",
+    "watchDemo": "Ver Demo",
+    "trustedBy": "Confiado por mais de 500 empresas mundialmente"
+  },
+  "features": {
+    "title": "Solução Completa de Comunicação",
+    "subtitle": "Tudo que você precisa para automatizar e otimizar interações com clientes em todas as plataformas sociais",
+    "aiAutomation": {
+      "title": "Automação com IA",
+      "description": "Chatbots inteligentes que entendem contexto e fornecem respostas personalizadas 24/7"
+    },
+    "multiChannel": {
+      "title": "Suporte Multi-Canal",
+      "description": "Gerencie WhatsApp, Facebook, Instagram e mais de uma única plataforma unificada"
+    },
+    "analytics": {
+      "title": "Analytics Avançado",
+      "description": "Acompanhe performance, meça ROI e obtenha insights para otimizar sua estratégia de comunicação"
+    },
+    "integration": {
+      "title": "Integração Perfeita",
+      "description": "Conecte com seu CRM existente, sistemas de reserva e ferramentas de negócio sem esforço"
+    },
+    "realTime": {
+      "title": "Suporte em Tempo Real",
+      "description": "Alterne entre suporte automatizado e humano de forma transparente quando necessário"
+    },
+    "security": {
+      "title": "Segurança Empresarial",
+      "description": "Criptografia de nível bancário e conformidade com regulamentações de saúde e hospitalidade"
+    }
+  },
+  "solutions": {
+    "title": "Soluções Personalizadas para Sua Indústria",
+    "healthcare": {
+      "title": "Centros de Saúde",
+      "description": "Agendamento de consultas, lembretes para pacientes, verificação de sintomas e comunicação em conformidade com LGPD",
+      "features": [
+        "Agendamento automatizado",
+        "Lembretes de medicação",
+        "Avaliação de sintomas",
+        "Acompanhamento de pacientes",
+        "Conformidade LGPD"
+      ]
+    },
+    "hotels": {
+      "title": "Hotéis e Hospitalidade",
+      "description": "Melhore a experiência do hóspede com reservas instantâneas, serviços de concierge e recomendações personalizadas",
+      "features": [
+        "Automação de reservas",
+        "Assistência check-in/check-out",
+        "Serviços de concierge",
+        "Coleta de feedback",
+        "Recomendações locais"
+      ]
+    },
+    "restaurants": {
+      "title": "Restaurantes",
+      "description": "Reservas de mesa, consultas de cardápio, pedidos e coordenação de delivery simplificados",
+      "features": [
+        "Reservas de mesa",
+        "Recomendações do cardápio",
+        "Gestão de pedidos",
+        "Rastreamento de delivery",
+        "Avaliações de clientes"
+      ]
+    }
+  },
+  "testimonials": {
+    "title": "O Que Nossos Clientes Dizem",
+    "subtitle": "Junte-se a centenas de empresas que transformaram sua comunicação com clientes",
+    "reviews": [
+      {
+        "name": "Dra. Ana Silva",
+        "role": "Diretora Médica",
+        "company": "Clínica Saúde+",
+        "text": "O Wup.chat reduziu nossas faltas em consultas em 40% e melhorou significativamente a satisfação dos pacientes. A conformidade com LGPD nos dá tranquilidade.",
+        "rating": 5
+      },
+      {
+        "name": "João Santos",
+        "role": "Gerente Geral",
+        "company": "Hotel Grand Resort",
+        "text": "Nossos índices de satisfação aumentaram 35% desde a implementação do Wup.chat. O suporte multilíngue é fenomenal para nossos hóspedes internacionais.",
+        "rating": 5
+      },
+      {
+        "name": "Maria Oliveira",
+        "role": "Proprietária",
+        "company": "Restaurante Bella Vista",
+        "text": "Dobramos nossas reservas e reduzimos o tempo de espera. A IA entende perfeitamente nosso cardápio e faz ótimas recomendações.",
+        "rating": 5
+      }
+    ]
+  },
+  "stats": {
+    "customers": "500+",
+    "customersLabel": "Clientes Satisfeitos",
+    "messages": "2M+",
+    "messagesLabel": "Mensagens Processadas",
+    "satisfaction": "98%",
+    "satisfactionLabel": "Satisfação do Cliente",
+    "uptime": "99,9%",
+    "uptimeLabel": "Garantia de Uptime"
+  },
+  "cta": {
+    "title": "Pronto para Transformar sua Comunicação com Clientes?",
+    "subtitle": "Junte-se a milhares de empresas que já usam o Wup.chat para automatizar e melhorar suas interações com clientes",
+    "button": "Comece seu Teste Grátis",
+    "noCredit": "Não precisa cartão de crédito • Teste grátis de 14 dias • Cancele a qualquer momento"
+  },
+  "footer": {
+    "description": "Wup.chat ajuda empresas a automatizar e otimizar a comunicação com clientes em todas as plataformas sociais com soluções powered by IA.",
+    "product": "Produto",
+    "company": "Empresa",
+    "support": "Suporte",
+    "legal": "Legal",
+    "features": "Recursos",
+    "pricing": "Preços",
+    "integrations": "Integrações",
+    "about": "Sobre Nós",
+    "careers": "Carreiras",
+    "blog": "Blog",
+    "helpCenter": "Central de Ajuda",
+    "documentation": "Documentação",
+    "community": "Comunidade",
+    "privacy": "Política de Privacidade",
+    "terms": "Termos de Serviço",
+    "cookies": "Política de Cookies",
+    "rights": "Todos os direitos reservados."
+  }
+}
