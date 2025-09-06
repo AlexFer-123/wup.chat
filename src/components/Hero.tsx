@@ -1,11 +1,16 @@
 import { useTranslation } from 'next-i18next';
 import { PlayIcon, SparklesIcon } from '@heroicons/react/24/solid';
-import { 
-  ChatBubbleLeftRightIcon, 
-  DevicePhoneMobileIcon, 
+import {
+  ChatBubbleLeftRightIcon,
+  DevicePhoneMobileIcon,
   HeartIcon,
   BuildingOfficeIcon
 } from '@heroicons/react/24/outline';
+import Whatsapp from './Icons/Whatsapp';
+import Facebook from './Icons/Facebook';
+import Instagram from './Icons/Instagram';
+import Messenger from './Icons/Messenger';
+
 
 export default function Hero() {
   const { t } = useTranslation('common');
@@ -60,7 +65,24 @@ export default function Hero() {
                 key={social.name}
                 className="flex flex-col items-center p-3 bg-white dark:bg-gray-800 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105"
               >
-                <span className="text-2xl mb-1">{social.icon}</span>
+
+                <span className="text-sm mb-1">{social.name === 'WhatsApp' ?
+                  <Whatsapp />
+                : ''}
+                </span>
+                <span className="text-sm mb-1">{social.name === 'Facebook' ?
+                  <Facebook />
+                : ''}
+                </span>
+                <span className="text-sm mb-1">{social.name === 'Instagram' ?
+                  <Instagram /> 
+                : ''}
+                </span>
+                <span className="text-sm mb-1">{social.name === 'Messenger' ?
+                  <Messenger />
+                : ''}
+                </span>
+
                 <span className="text-xs font-medium text-gray-600 dark:text-gray-400">
                   {social.name}
                 </span>
@@ -116,7 +138,7 @@ export default function Hero() {
                   </div>
                 </div>
               </div>
-              
+
               {/* Mock content */}
               <div className="p-8">
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
