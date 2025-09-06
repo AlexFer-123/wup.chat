@@ -91,12 +91,12 @@ export default function Hero() {
           </div>
 
           {/* CTAs */}
-          <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4 mb-12 animate-slide-up animation-delay-600">
-            <button className="btn-primary text-lg px-8 py-4 group">
+          <div className="flex flex-row sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4 mb-12 animate-slide-up animation-delay-600">
+            <button className="flex items-center flex-row align-center btn-primary text-lg px-8 py-4 group">
               {t('hero.cta')}
               <SparklesIcon className="h-5 w-5 ml-2 group-hover:animate-spin" />
             </button>
-            <button className="btn-secondary text-lg px-8 py-4 group">
+            <button className="flex items-center btn-secondary text-lg px-8 py-4 group">
               <PlayIcon className="h-5 w-5 mr-2 group-hover:scale-110 transition-transform" />
               {t('hero.watchDemo')}
             </button>
@@ -108,7 +108,7 @@ export default function Hero() {
               Perfect for:
             </span>
             {industries.map((industry, index) => (
-              <div key={industry.name} className="flex items-center space-x-2">
+            <div key={industry.name} className="flex items-center space-x-2">
                 <industry.icon className={`h-5 w-5 ${industry.color}`} />
                 <span className="text-sm font-medium text-gray-700 dark:text-gray-300">
                   {industry.name}
@@ -197,13 +197,16 @@ export default function Hero() {
 
             {/* Floating elements */}
             <div className="absolute -top-4 -left-4 w-16 h-16 bg-whatsapp text-white rounded-full flex items-center justify-center text-2xl animate-bounce-slow">
-              📱
+              <Whatsapp />
             </div>
             <div className="absolute -top-4 -right-4 w-16 h-16 bg-facebook text-white rounded-full flex items-center justify-center text-2xl animate-bounce-slow animation-delay-1000">
-              👥
+              <Facebook />
             </div>
             <div className="absolute -bottom-4 -left-4 w-16 h-16 bg-instagram text-white rounded-full flex items-center justify-center text-2xl animate-bounce-slow animation-delay-2000">
-              📷
+              <Instagram />
+            </div>
+            <div className="absolute -bottom-4 -right-4 w-16 h-16 bg-blue-600  text-white rounded-full flex items-center justify-center text-2xl animate-bounce-slow animation-delay-2000">
+              <Messenger />
             </div>
           </div>
         </div>

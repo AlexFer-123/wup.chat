@@ -116,11 +116,11 @@ export default function Solutions() {
 
             {/* CTA */}
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
-              <button className="btn-primary group">
+              <button className="flex items-center btn-primary group">
                 Get Started for {activeSolution.title}
                 <ArrowRightIcon className="h-5 w-5 ml-2 group-hover:translate-x-1 transition-transform duration-200" />
               </button>
-              <button className="btn-secondary">
+              <button className="flex items-center btn-secondary">
                 View Demo
               </button>
             </div>
